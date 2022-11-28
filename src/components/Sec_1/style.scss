@@ -1,0 +1,137 @@
+.sec-1{
+  padding-top: 100px;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F6F5FF 100%);
+
+
+&__title{
+height: 100px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 200%;
+color: #212121;
+
+}
+
+&__btn{
+  
+  padding: 10px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 209px;
+height: 52px;
+color: white;
+  background-color: #008F76;
+  border: 1px solid #008F76;
+  border-radius: 20px;
+}
+}
+
+.dec{
+  margin-top: 55px;
+  width: 405px;
+  margin: 0 auto;
+  background-color: radial-gradient(35.68% 5852249.52% at 44.07% -0.44%, #008F76 0%, rgba(148, 148, 148, 0) 100%) ;
+  border: 0.5px solid;
+border-image-source: radial-gradient(35.68% 5852249.52% at 44.07% -0.44%, #316c62 0%, rgba(148, 148, 148, 0) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+
+
+}
+
+.sec-2__btn{
+
+  padding: 10px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  width: 270px;
+height: 52px;
+color: #008F76;
+  
+  border: 1px solid #008F76;
+  border-radius: 20px;
+}
+
+
+.cards{
+  margin-top: 50px;
+  position: relative;
+  min-height: 550px;
+}
+.card-1{
+  position: absolute;
+width: 100px;
+height: 138.33px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+}
+
+#card_2{
+  position: absolute;
+width: 130px;
+height: 220px;
+left: 100px;
+top: 260px;
+left: 0;
+
+background: #FFFFFF;
+box-shadow: 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}
+
+.card-3{  
+  position: absolute;
+width: 130px;
+height: 200px;
+left: 242px;
+top: 89px;
+
+background: #FFFFFF;
+box-shadow: 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}
+
+.card-4{
+  position: absolute;
+  width: 230px;
+  height: 360px;
+  left: 504px;
+  top: 65px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.07), 0px 41.7776px 33.4221px rgba(0, 0, 0, 0.0503198), 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}
+
+.card-5{
+  position: absolute;
+  width: 130px;
+  height: 200px;
+  right: 244px;
+  top: 89px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}
+
+.card-6{
+  position: absolute;
+width: 100px;
+height: 138.33px;
+right: 17px;
+top: 0px;
+background: #FFFFFF;
+}
+
+.card-7{
+  position: absolute;
+  width: 130px;
+  height: 220px;
+  right: 2px;
+  top: 260px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+}

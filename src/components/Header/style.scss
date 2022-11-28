@@ -1,0 +1,30 @@
+header{
+  padding: 30px;
+  background-color: #008F76;
+}
+
+.nav{
+  justify-content: space-between;
+
+
+&__brand{
+  width: 60px;
+  height: 60px;
+}
+
+&__list{
+  list-style-type: none;
+  gap: 100px;
+}
+
+&__item__link{
+  color: #F5F5FF;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 200%;
+
+text-align: center;
+}
+}

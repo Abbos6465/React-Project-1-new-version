@@ -1,0 +1,74 @@
+.sec-2{
+  padding: 100px 0;
+  background: linear-gradient(180deg, #F6F5FF 0%, #FFFFFF 100%);
+
+
+  &__title{  
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 200%;
+text-align: center;
+color: #212121;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+  &__box-wrapper{
+  margin-top: 50px;
+  display: flex;
+  gap: 40px;
+
+}
+
+  &__box{
+padding: 30px;
+width: 596px;
+height: 228px;
+
+background: #FFFFFF;
+box-shadow: 0px 22.3363px 17.869px rgba(0, 0, 0, 0.0417275), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.035), 0px 6.6501px 5.32008px rgba(0, 0, 0, 0.0282725), 0px 2.76726px 2.21381px rgba(0, 0, 0, 0.0196802);
+border-radius: 5px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+  &__text{
+  width: 536px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 200%;
+  color: #212121;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+}
+
+  &__userName{
+width: 150px;
+height: 32px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 200%;
+color: #212121;
+}
+
+  &__userText{
+width: 272px;
+height: 32px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+color: #949494;
+}
+}
